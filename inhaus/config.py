@@ -72,6 +72,7 @@ MATERIAL_PROPERTIES = { 'MaterialName'      : 'NewMaterial' ,
                         'Treatment'         : 'BWR'         ,
 
                         'CostingUnit'       : 'Piece'       ,
+                        'CurrencyUnit'      : 'INR'       ,
                         'Cost'              : 0.00          ,
                         
                         'MeasurementUnit'   : 'mm'          ,

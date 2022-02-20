@@ -1,11 +1,16 @@
+#!/usr/binenv python2.7
+# -*- coding: utf-8 -*-
 
+__all__ = ['MaterialCommon', 'SheetMaterial']
 
-import config
+# - - - - - - - - BUILT-IN IMPORTS
+
+# - - - - - - - - LOCAL IMPORTS
+
 from utility import dotNETBase
-import document
-import json
+import config, document
 
-
+# - - - - - - - - CLASS LIBRARY
 
 class MaterialCommon(dotNETBase):
 

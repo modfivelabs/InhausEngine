@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Custom
-private/
-release/
+bin/
+.working/
